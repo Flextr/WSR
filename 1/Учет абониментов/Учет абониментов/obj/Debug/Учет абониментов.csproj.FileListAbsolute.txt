@@ -1,0 +1,15 @@
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\bin\Debug\Учет абониментов.exe.config
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\bin\Debug\Учет абониментов.exe
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\bin\Debug\Учет абониментов.pdb
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\obj\Debug\Учет абониментов.csproj.AssemblyReference.cache
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\obj\Debug\MainWindow.g.cs
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\obj\Debug\App.g.cs
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\obj\Debug\Учет абониментов_MarkupCompile.cache
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\obj\Debug\Учет абониментов_MarkupCompile.lref
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\obj\Debug\MainWindow.baml
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\obj\Debug\Учет абониментов.g.resources
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\obj\Debug\Учет_абониментов.Properties.Resources.resources
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\obj\Debug\Учет абониментов.csproj.GenerateResource.cache
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\obj\Debug\Учет абониментов.csproj.CoreCompileInputs.cache
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\obj\Debug\Учет абониментов.exe
+C:\Users\инет\Desktop\1\Учет абониментов\Учет абониментов\obj\Debug\Учет абониментов.pdb
